@@ -23,8 +23,8 @@ header, footer{
   padding: 12% 0;
 }
 
-pd-sct{
-  padding: 8% 0;
+.pd-sct{
+  padding: 8% 0 !important;
 }
 .pd-proyecto{
   padding: 3% 0;
